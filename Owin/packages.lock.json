@@ -2,27 +2,6 @@
   "version": 1,
   "dependencies": {
     ".NETFramework,Version=v4.6.1": {
-      "Microsoft.CodeAnalysis.PublicApiAnalyzers": {
-        "type": "Direct",
-        "requested": "[3.3.0, )",
-        "resolved": "3.3.0",
-        "contentHash": "upaG6u/PxjkOj39Kk0DLmmA75acYChmv6/HnOUxvSgGWul53uPcVaPxBWCzkHDfIljyiq5qeIG+CatT8x8FAEA=="
-      },
-      "Microsoft.Owin": {
-        "type": "Direct",
-        "requested": "[3.0.1, )",
-        "resolved": "3.0.1",
-        "contentHash": "64yZsGN9uRnXNVAyAT4F6KWmdDUJ6yX4uqzxKTdGANKH1oMt0IKZ7THRRa3mXIOo8iSu4tq/DCBUycUY9pXZzw==",
-        "dependencies": {
-          "Owin": "1.0.0"
-        }
-      },
-      "Owin": {
-        "type": "Direct",
-        "requested": "[1.0.0, )",
-        "resolved": "1.0.0",
-        "contentHash": "OseTFniKmyp76mEzOBwIKGBRS5eMoYNkMKaMXOpxx9jv88+b6mh1rSaw43vjBOItNhaLFG3d0a20PfHyibH5sw=="
-      },
       "Microsoft.CodeAnalysis.Analyzers": {
         "type": "Transitive",
         "resolved": "2.9.4",
